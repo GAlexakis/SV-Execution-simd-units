@@ -1,0 +1,2 @@
+rtl/*.sv
+sim/*.sv
